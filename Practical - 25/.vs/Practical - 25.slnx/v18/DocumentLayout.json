@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\Design Pattern - Practicals\\Practical - 25\\Practical - 25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6079341-48B4-8009-5517-5C74911DE5EC}|EmployeeManagement.API\\EmployeeManagement.API.csproj|c:\\users\\shivang.chauhan\\desktop\\dot net\\design pattern - practicals\\practical - 25\\practical - 25\\employeemanagement.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6079341-48B4-8009-5517-5C74911DE5EC}|EmployeeManagement.API\\EmployeeManagement.API.csproj|solutionrelative:employeemanagement.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6079341-48B4-8009-5517-5C74911DE5EC}|EmployeeManagement.API\\EmployeeManagement.API.csproj|c:\\users\\shivang.chauhan\\desktop\\dot net\\design pattern - practicals\\practical - 25\\practical - 25\\employeemanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6079341-48B4-8009-5517-5C74911DE5EC}|EmployeeManagement.API\\EmployeeManagement.API.csproj|solutionrelative:employeemanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\Design Pattern - Practicals\\Practical - 25\\Practical - 25\\EmployeeManagement.API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.API\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\Design Pattern - Practicals\\Practical - 25\\Practical - 25\\EmployeeManagement.API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeManagement.API\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T09:12:27.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\Design Pattern - Practicals\\Practical - 25\\Practical - 25\\EmployeeManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.API\\Program.cs",
+              "ToolTip": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\Design Pattern - Practicals\\Practical - 25\\Practical - 25\\EmployeeManagement.API\\Program.cs",
+              "RelativeToolTip": "EmployeeManagement.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T08:12:14.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

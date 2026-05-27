@@ -1,0 +1,14 @@
+C:\Users\shivang.chauhan\Desktop\Dot Net\Design Pattern - Practicals\Practical - 25\Practical - 25\EmployeeManagement.DAL\bin\Debug\net10.0\EmployeeManagement.DAL.deps.json
+C:\Users\shivang.chauhan\Desktop\Dot Net\Design Pattern - Practicals\Practical - 25\Practical - 25\EmployeeManagement.DAL\bin\Debug\net10.0\EmployeeManagement.DAL.runtimeconfig.json
+C:\Users\shivang.chauhan\Desktop\Dot Net\Design Pattern - Practicals\Practical - 25\Practical - 25\EmployeeManagement.DAL\bin\Debug\net10.0\EmployeeManagement.DAL.dll
+C:\Users\shivang.chauhan\Desktop\Dot Net\Design Pattern - Practicals\Practical - 25\Practical - 25\EmployeeManagement.DAL\bin\Debug\net10.0\EmployeeManagement.DAL.pdb
+C:\Users\shivang.chauhan\Desktop\Dot Net\Design Pattern - Practicals\Practical - 25\Practical - 25\EmployeeManagement.DAL\obj\Debug\net10.0\EmployeeManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\shivang.chauhan\Desktop\Dot Net\Design Pattern - Practicals\Practical - 25\Practical - 25\EmployeeManagement.DAL\obj\Debug\net10.0\EmployeeManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivang.chauhan\Desktop\Dot Net\Design Pattern - Practicals\Practical - 25\Practical - 25\EmployeeManagement.DAL\obj\Debug\net10.0\EmployeeManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\shivang.chauhan\Desktop\Dot Net\Design Pattern - Practicals\Practical - 25\Practical - 25\EmployeeManagement.DAL\obj\Debug\net10.0\EmployeeManagement.DAL.AssemblyInfo.cs
+C:\Users\shivang.chauhan\Desktop\Dot Net\Design Pattern - Practicals\Practical - 25\Practical - 25\EmployeeManagement.DAL\obj\Debug\net10.0\EmployeeManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\shivang.chauhan\Desktop\Dot Net\Design Pattern - Practicals\Practical - 25\Practical - 25\EmployeeManagement.DAL\obj\Debug\net10.0\EmployeeManagement.DAL.dll
+C:\Users\shivang.chauhan\Desktop\Dot Net\Design Pattern - Practicals\Practical - 25\Practical - 25\EmployeeManagement.DAL\obj\Debug\net10.0\refint\EmployeeManagement.DAL.dll
+C:\Users\shivang.chauhan\Desktop\Dot Net\Design Pattern - Practicals\Practical - 25\Practical - 25\EmployeeManagement.DAL\obj\Debug\net10.0\EmployeeManagement.DAL.pdb
+C:\Users\shivang.chauhan\Desktop\Dot Net\Design Pattern - Practicals\Practical - 25\Practical - 25\EmployeeManagement.DAL\obj\Debug\net10.0\EmployeeManagement.DAL.genruntimeconfig.cache
+C:\Users\shivang.chauhan\Desktop\Dot Net\Design Pattern - Practicals\Practical - 25\Practical - 25\EmployeeManagement.DAL\obj\Debug\net10.0\ref\EmployeeManagement.DAL.dll
